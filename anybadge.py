@@ -35,6 +35,7 @@ COLORS = {
     'orange': '#fe7d37',
     'red': '#e05d44',
     'lightgrey': '#9f9f9f',
+    'blue': '#4078c0',
 }
 
 # Template SVG with placeholders for various items that
