@@ -19,7 +19,8 @@ __uri__ = "https://github.com/jongracecox/anybadge"
 
 
 # Set some defaults
-DEFAULT_FONT = 'DejaVu Sans,Verdana,Geneva,sans-serif'
+# DEFAULT_FONT = 'DejaVu Sans,Verdana,Geneva,sans-serif'
+DEFAULT_FONT = 'Verdana'
 DEFAULT_FONT_SIZE = 11
 NUM_PADDING_CHARS = 0.5
 DEFAULT_COLOR = '#4c1'
